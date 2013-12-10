@@ -1,5 +1,5 @@
-setlocal ENABLEDELAYEDEXPANSION
 @echo off
+setlocal ENABLEDELAYEDEXPANSION
 
 echo [0]: %0
 
